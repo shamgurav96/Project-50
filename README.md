@@ -5,3 +5,5 @@
 -    [01 - Expanding Cards](https://shamgurav96.github.io/Project-50/01%20-%20Expanding%20Cards/index.html)
 
 -    [02 - Progress Steps](https://shamgurav96.github.io/Project-50/02%20-%20Progress%20Steps/index.html)
+
+-    [03 - Rotating Navigation](https://shamgurav96.github.io/Project-50/03%20-%20Rotating%20Navigation/index.html)
